@@ -6,7 +6,7 @@
 
 ![Wifi-Wallpaper-13](https://user-images.githubusercontent.com/69615463/95957120-ecd22400-0e1c-11eb-923c-79e3cade1334.png)
 
-A python program to disconnect any wifi user.Protect wifi from hacker.
+A python program can disconnect any wifi user.Protect wifi from hacker.
 
 ### Installation ###
 
