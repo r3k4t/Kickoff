@@ -84,9 +84,13 @@ Next
 
 Next
 
+Wifi connect
+
 ![Screenshot_2020-10-14-11-54-50-398_com miui home](https://user-images.githubusercontent.com/69615463/95955440-a382d400-0e1e-11eb-842d-36bc49ac2637.jpg)
 
 Next
+
+wifi disconnect
 
 ![Screenshot_2020-10-14-11-54-13-468_com miui home](https://user-images.githubusercontent.com/69615463/95955279-674f7380-0e1e-11eb-8f04-3d21d4bdaca8.jpg)
 
