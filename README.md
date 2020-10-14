@@ -50,7 +50,6 @@ Router gateway 192.168.1.1 ===> python wifi_user_detect2.py
 Router gateway 192.168.0.254 ===>python wifi_user_detect3.py
 
 
-
 ### Setup ###
 
 <ul>
@@ -70,7 +69,7 @@ Router gateway 192.168.0.254 ===>python wifi_user_detect3.py
 <li>sudo python3 kickof3.py</li>
 </ul>
 
-### <== Screentshots ==> ###
+###  Screentshots  ###
 
 ![Screenshot at 2020-10-14 11-27-21](https://user-images.githubusercontent.com/69615463/95953004-cf9a5700-0e16-11eb-9f8d-e1171bd0d251.png)
 
