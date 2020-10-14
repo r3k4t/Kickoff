@@ -52,6 +52,7 @@ Router gateway 192.168.0.254 ===>python wifi_user_detect3.py
 
 <ul>
 <li>sudo pip3 install requirements.txt</li>
+<li>sudo pip install requirements2.txt</li>
 </ul> 
 
 ### Getting started ###
