@@ -57,8 +57,8 @@ Router gateway 192.168.0.254 ===>python wifi_user_detect3.py
 ### Getting started ###
 
 <ul>
-<li>git clone https://github.com/r3k4t/KickOff.git</li>
-<li>cd KickOff</li>
+<li>git clone https://github.com/r3k4t/Kickoff.git</li>
+<li>cd Kickoff</li>
 <li><h4>Linuxmint</h4></li>
 <li>sudo python3 kickoff.py</li>
 <li><h4>Kali Linux & Parrot Os</h4> </li>
