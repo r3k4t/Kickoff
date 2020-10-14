@@ -10,7 +10,7 @@
 
 A python program to disconnect any wifi user.Protect wifi from hacker.
 
-### <== Installation ==> ###
+### Installation ###
 
 We need to install aircrack-ng and nmap on our system.Open a terminal type and type the following command :
 
@@ -44,8 +44,11 @@ kickof.py is linuxmint python script.
 
 
 Router gateway 192.168.0.1 ===> python wifi_user_detect.py 
+<br>
 Router gateway 192.168.1.1 ===> python wifi_user_detect2.py
+<br>
 Router gateway 192.168.0.254 ===>python wifi_user_detect3.py
+
 
 
 ### Setup ###
