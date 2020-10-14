@@ -1,11 +1,10 @@
-<h2>Kick Of</h2>
+<h2>Kick Off</h2>
 
 <h4>Author : RKT</h4>
 
 ### Descripton ###
 
 
-![Wifi-Wallpaper-13](https://user-images.githubusercontent.com/69615463/95952701-38cd9a80-0e16-11eb-98a8-cba7ecec94bf.png)
 
 
 A python program to disconnect any wifi user.Protect wifi from hacker.
@@ -30,15 +29,15 @@ We need to install aircrack-ng and nmap on our system.Open a terminal type and t
 
 ### Ubuntu ###
 
-kickof3.py  is ubuntu python script.
+kickoff3.py  is ubuntu python script.
 
 ### Kali Linux & Parrot Os ###
 
-kickof2.py is kali linux and parrot Os python script.
+kickoff2.py is kali linux and parrot Os python script.
 
 ### Linuxmint ###
 
-kickof.py is linuxmint python script.
+kickoff.py is linuxmint python script.
 
 ## Router Gateway ###
 
@@ -59,14 +58,14 @@ Router gateway 192.168.0.254 ===>python wifi_user_detect3.py
 ### Getting started ###
 
 <ul>
-<li>git clone https://github.com/r3k4t/Kickof.git</li>
-<li>cd Kickof</li>
+<li>git clone https://github.com/r3k4t/KickOff.git</li>
+<li>cd KickOff</li>
 <li><h4>Linuxmint</h4></li>
-<li>sudo python3 kickof.py</li>
+<li>sudo python3 kickoff.py</li>
 <li><h4>Kali Linux & Parrot Os</h4> </li>
-<li>sudo python3 kickof2.py</li>
+<li>sudo python3 kickoff2.py</li>
 <li><h4>Ubuntu</h4></li>
-<li>sudo python3 kickof3.py</li>
+<li>sudo python3 kickoff3.py</li>
 </ul>
 
 ###  Screentshots  ###
