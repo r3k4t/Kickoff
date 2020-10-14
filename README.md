@@ -81,4 +81,7 @@ Next
 
 ![Screenshot at 2020-10-14 11-24-19](https://user-images.githubusercontent.com/69615463/95953308-48011800-0e17-11eb-9e50-2a9dc5b5c37a.png)
 
+Next 
+
+![Screenshot_2020-10-14-11-54-13-468_com miui home](https://user-images.githubusercontent.com/69615463/95955279-674f7380-0e1e-11eb-8f04-3d21d4bdaca8.jpg)
 
